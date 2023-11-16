@@ -1,7 +1,7 @@
 # InfoSec Black Friday Deals ~ "Friday Hack Fest" 2023 Edition
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday. 
 
-I was a little late getting started with my wife pushing out a little 0-day baby as of today.
+I was a little late getting started with my wife pushing out a little 0-day baby as of today. Thank you CriimBow for kicking things off in the meantime! 
 
 ### Just 2023 things
 Quality over quantity - this list goes through a level of vetting for dodginess, gated-deals, deals that aren't infosec related and either can't be verified or break promises (e.g. states % off all courses, but has exclusions). There are also some vendors being stood up (literally) with courses and training 'just' for black friday; at your service here to weed out the genuine from the fake.
@@ -39,14 +39,13 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be i
 ## InfoSec Career Development (NEW CATEGORY 2023!)
 
 CareerSec: Securing Your Advancement in the Cyber Workforce \
-https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/cyber-friday-25
+https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/cyber-friday-25  
 25% at checkout with code: cyber-friday-25 \
 Deal ends: 30th November
 
-
 ## Newsletters
 
-**Return on Security Subscription (Annual) :see_no_evil: \**
+Return on Security Subscription (Annual) :see_no_evil: \
 https://www.returnonsecurity.com/upgrade?offer_id=3fde9e85-dc7c-48a6-94c4-c350db62504a  
 25% off ($74.00 instead of $99) \
 Deal ends: 30th November
@@ -61,17 +60,37 @@ Deal ends: December
 UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
 20-40% off App/Network/Infra Pentests \
-20-40% Off 24×7 Managed Threat Detection and Response \
+20-40% off 24×7 Managed Threat Detection and Response \
 20-40% off for Incident Response Retainer \
 Deal ends: 23rd December
 
 ## Tools
 
+GrayhatWarfare Open Bucket & shorturl Secrets :see_no_evil: \
+https://grayhatwarfare.com/packages  
+40% off Premium ($200 down from $370) & Enterprise ($560 down from $1190) \
+Deal live now
+
+PortDroid - A swiss army knife of network security tools for Android \
+https://portdroid.net/black-friday-2023/  
+50% off lifetime version with code: CYBER_2023 \
+Deal ends: 4th December
+
+PulseDive Threat Intelligence  :see_no_evil: \
+https://pulsedive.com/about/enterprise  
+50% off for 6 months with code: BLACKFRIDAY23 \
+Deal ends: 26th November
   
+SecureStack DevSecOps SaaS  :see_no_evil: \
+https://securestack.com/black-friday-sale  
+50% off for 12 months with code: BLACKFRIDAY23WOW \
+Deal ends: 2nd December
+
 ## Courses & Training
 
-Blue Team Training - LetsDefend :see_no_evil:\
+Blue Team Training - LetsDefend :see_no_evil: \
 https://letsdefend.io/  
+https://app.letsdefend.io/enterprise-basic  
 50% off code: BLCKFRDY \
 Deal ends: 2nd December
 
@@ -80,6 +99,10 @@ https://www.offensive-security.com/learn-one
 20% off Learn One subscription \
 Deal ends: 31st December 
 
+SafeStack - Secure Development Training Platform :see_no_evil: \
+https://safestack.io/  
+25% off plans with code: BFTHANKS2023
+
 Zero Point Security Certifications & Courses \
 https://training.zeropointsecurity.co.uk  
 20% off with code: BLACKFRI23 \
@@ -87,7 +110,9 @@ Deal ends: 1st December
 
 The Cyber Plumber's Lab Guide and Access \
 https://opsdisk.gumroad.com/l/cphlab/blackfriday2023  
-33% off ($13.37 USD) with code BLACKFRIDAY2023  \
+(1) 33% off ($13.37 USD) + free handbook \
+(2) 75% off for students \
+Use code: BLACKFRIDAY2023  \
 Deal ends: December
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:\
@@ -105,10 +130,24 @@ https://www.practical-devsecops.com/black-friday/
 15% off all courses \
 Deal ends: 30th November
 
+TCM Security Certification & Courses :see_no_evil: \
+https://tcm-sec.com/  
+(1) 20% off of certifications and live trainings \
+(2) 50% off of the first payment of the All-Access Membership (any plan) \
+Code: GobbleGobble23 \
+Deal yet to start
+
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
 https://checkout.appsecengineer.com/pro    
 $100 USD off Annual Pro Plan with code: PUMPKINPIE25 \
 Deal ends: 30th November
+
+Pensterlab :see_no_evil: \
+https://pentesterlab.com/pro
+27% off one year subscription, applied automatically \
+(1) US$146 instead of US$199 \
+(2) US$25.99 instead of US$34.99 for students \
+Deal valid: 24-29th November
 
 Securízame hacking, DFIR and hardening training (SPANISH) \
 https://www.securizame.com/BlackFriday2023/  
@@ -125,6 +164,17 @@ Desec Security - Pentes profissional Brazilian course
 https://desecsecurity.com/curso/novo-pentest-profissional
 From R$ 3,597.00 to R$ 1,997.00. BRL
 With code: DESECPRO1X
+
+The SecOps Group Security Exams \
+https://secops.group/pentesting-exams/  
+75% off on all Essentials & Professional Exams with code: BLACK-FRIDAY-75-OFF \
+Deal Ends: 24 November
+
+TryHackme Advent of Cyber Deal \
+https://tryhackme.com/room/adventofcyber2023  
+20% off personal annual subscriptions with code: AOC2023 \
+Deal ends: 7th December
+
 
 ## Practical Labs:
 
@@ -144,9 +194,10 @@ Deal valid: 24-27 November
 
 KSEC LABS (Red Team Tools, Locksmith, Hacker Gadgets) \
 https://labs.ksec.co.uk/black-friday-sale/  
-Various discounts, free items, free shipping and codes on page to use \
+Various discounts, free shipping and codes on page to use \
 15% off all products with code: BLACKFRIDAY15 \
-Deal ends: 27th November
+20% off all Pro Pick Tools (Automatic Discount) \
+Deal ends: 30th November
 
 iFixIt Hardware and Security Tooling \
 https://www.ifixit.com/promotions/black-friday-holiday  
@@ -157,17 +208,28 @@ Multiple On-Sale Kits \
 Deal Ends: November 28 
 
 ## Wearables:
-
+HackCloth Hacking Hoodies, T-Shirts & Sweatshirts \
+https://hackcloth.com/  
+Free shipping + Buy 2 get 20% off storewide \
+Deal Ends: 1st December
 
 ## Books:
-
+Springer Apress Cybersecurity eBooks \
+https://link.springer.com/shop/springernature/cyber-fixed-price-sale-cybersecurity-ethicalhacking/en-us/  
+Up to 90% off, selected titles are $6.99
 
 ## Games:
 
 Elevation of Privilege Card Game  \
 https://agilestationery.com/products/elevation-of-privilege-game  
 (1) 15% off with code: CYBER15 \
-(2) 30% off 3 or more items with code: CYBER30 \
+(2) 30% off 3 or more items with code: CYBER30
+
+SecDim Attack and Defence Wargames  \
+https://secdim.com  
+(1) 25% off annual Professional plan \
+(2) 35% off annual Professional plan when you reply here: https://discuss.secdim.com/t/35-off-annual-professional-plan/1568  
+Deal Ends: 1st December
 
 
 ## Services:
@@ -210,6 +272,8 @@ After a link, please use a double-space (  )
 ## Credits
 If you wouldd like to DM me a deal rather than submitting a PR: @securitymeta_
 Other PRs and sources will be thanked here.
+
+Check out CriimBow's fork for a new/different formatting: https://github.com/CriimBow/InfoSec-Black-Friday/tree/master
 
 Thanks to those who contributed and help spread the word!
 
