@@ -121,6 +121,11 @@ https://thexssrat.podia.com/
 60% off with code: WEEKLYSALES \
 Deal is live
 
+Desec Security - Pentes profissional Brazilian course
+https://desecsecurity.com/curso/novo-pentest-profissional
+From R$ 3,597.00 to R$ 1,997.00. BRL
+With code: DESECPRO1X
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
