@@ -258,6 +258,14 @@ https://www.crest-approved.org/crt-examination-promotional-form
 Exam must be booked by 31 January 2024 and must be taken by 30 April 2024 \
 Deal ends: 31st January
 
+ISC2 Save 50% on Exam Peace of Mind \
+https://www.isc2.org/landing/exam-peace-of-mind?utm_source=linkedin&utm_medium=organicsocial&utm_campaign=GBL-exam-peace-of-mind-protection-promo&utm_term=cybermonday&utm_content=exam
+Gift yourself the confidence of two tries at your ISC2 exam with Peace of Mind Protection, now 50% off with your exam voucher purchase through November 30! \
+Purchase your exam voucher with Peace of Mind Protection from November 20 – 30, 2023. You’ll receive your exam voucher code in up to 7 days. \
+Register and sit for your exam by December 31, 2023. Use your exam voucher code at checkout. \
+Second attempt:If needed, you can sit for the exam a second time through February 15, 2024.
+
+
 ## Hardware:
 
 KSEC LABS (Red Team Tools, Locksmith, Hacker Gadgets) \
